@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ashh18codex
 - 👀 I’m interested in coding as a software developer
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 🌱 pretty good enough in java,mysql,ML
+- 💞️ currenty on mission on learing OCI Associate
 - 📫 How to reach me : imashwath18@gmail.com
 
 <!---
